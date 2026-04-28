@@ -12,9 +12,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-# Customer Behavior Analytics & Sales Intelligence Dashboard
-
-## Overview
 
 This project is an end-to-end data analytics solution designed to analyze customer purchasing behavior, sales performance, and business trends using real-world retail transaction data.
 
